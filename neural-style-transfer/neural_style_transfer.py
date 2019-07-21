@@ -53,4 +53,4 @@ cv2.imshow("Output", output)
 # will display the window infinitely until any keypress are pressed
 cv2.waitKey(0)
 # Got black pic because imwrite prints on a 0 to 255 scale, but my image is in a 0 to 1 scale. To scale up need to * 255
-cv2.imwrite(r'C:\Users\agruza\Desktop\neural-style-transfer\image_after\Test_pic.jpg', output * 255) 
+cv2.imwrite(r'C:\Users\<user_name>\Desktop\neural-style-transfer\image_after\Test_pic.jpg', output * 255) 
