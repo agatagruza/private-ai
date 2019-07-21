@@ -50,4 +50,5 @@ print("[INFO] neural style transfer took {:.4f} seconds".format(
 # show the images
 cv2.imshow("Input", image)
 cv2.imshow("Output", output)
+# will display the window infinitely until any keypress are pressed
 cv2.waitKey(0)
