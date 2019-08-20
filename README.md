@@ -17,7 +17,7 @@ Completing the entire course together with accompanying notebooks has multiple b
 3. **Social Good -** Deep Learning can be used to solve a wide variety of problems in the real world, but Deep Learning on personal information is Deep Learning about people, for people. Learning how to do Deep Learning on data you don't own represents more than a career or entrepreneurial opportunity, it is the opportunity to help solve some of the most personal and important problems in people's lives - and to do it at scale.
 
 ## ACKNOWLEDGEMENT
-I wouldn’t be here today if not support of Udacity, Facebook and the whole Slack community. Therefore from this place I would like to acknowledge above mentioned entities for tremendous help, support and being by our side every step of the way.  :pray: :pray: :pray: **THANK YOU** :pray: :pray: :pray:</br></br>
+I wouldn’t be here today if not support of Udacity, Facebook and the whole Slack community. Therefore from this place I would like to acknowledge above mentioned rockstars for tremendous help, support and being by our side every step of the way.  :pray: :pray: :pray: **THANK YOU** :pray: :pray: :pray:</br></br>
 
 
 ## ENJOY READING !!! 
