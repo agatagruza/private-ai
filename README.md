@@ -7,6 +7,7 @@ The main goal of Private AI project is to show my progress over the course of th
 - Federated Learning
 - Differential Privacy
 - Encrypted Computation</br>
+
 Interesting observations and important notes are bolded inside each of the Google Collabs.  
 
 ## IMPORTNACE
