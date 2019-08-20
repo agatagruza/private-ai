@@ -10,7 +10,7 @@ The main goal of Private AI project is to show my progress over the course of th
 
 Interesting observations and important notes are bolded inside each of the Google Collabs.  
 
-## IMPORTNACE
+## IMPORTANCE
 Completing the entire course together with accompanying notebooks has multiple benefits (based on Andrew Trask  testimony): 
 1.	**A Competitive Career Advantage –** We are setting ourselves apart in the field of ML and privacy protection. With new regulation such as GDPR, enterprises are under pressure to have less freedom with how they use - and more importantly how they analyze - personal information. Bottom Line: Data Scientists aren't going to have access to as much data with "old school" tools, but by learning the tools of Private Deep Learning, YOU can be ahead of this curve and have a competitive advantage in your career.
 2. **Entrepreneurial Opportunities -** There are a whole host of problems in society that Deep Learning can solve, but many of the most important haven't been explored because it would require access to incredibly sensitive information about people. Thus, learning Private Deep Learning unlocks a whole host of new startup opportunities for you which were not previously available to others without these toolsets.
